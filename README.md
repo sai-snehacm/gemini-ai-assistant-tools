@@ -1,20 +1,19 @@
-Gemini AI Assistant with Tool Calling
+# Gemini AI Assistant with Tool Calling
 
-A Python AI chatbot powered by Gemini API using LangChain and LangGraph.
+AI chatbot using Gemini API with custom tools built in Python.
 
-Features
-- Gemini powered responses
+## Features
+- Gemini powered chatbot
 - Calculator tool
 - Greeting tool
-- Interactive command line chatbot
 
-Tech Stack
-- Python
-- Gemini API
-- LangChain
-- LangGraph
+## Project Outputs
 
-Run Project
+### Output 1
+![Output 1](output.png)
 
-```bash
-uv run main.py
+### Output 2
+![Output 2](output2.png)
+
+### Output 3
+![Output 3](output3.png)
